@@ -12,12 +12,16 @@
   "dependencies": {
     "@types/express": "^4.17.19",
     "@types/node": "^20.8.6",
+    "@types/stripe": "^8.0.417",
+    "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "stripe": "^13.11.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.14",
     "concurrently": "^8.2.1",
     "nodemon": "^3.0.1"
   }
